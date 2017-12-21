@@ -1,7 +1,8 @@
 ---
-title:
+title: wtftitle
 description: A static HTML-only website generated using Metalsmith.io.
 priority: 1.0
+customfield: custom text on custom field
 ---
 
 [![Node.js]({{ root }}/images/nodejs.png)](http://nodejs.org/)
@@ -20,3 +21,4 @@ Metalsmith could be used to create:
 * build tools or project scaffolding
 
 [Get started&hellip;]({{ root }}start/)
+
