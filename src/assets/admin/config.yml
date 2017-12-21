@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jakubmaslon # Path to your Github repository
+  repo: jakubmaslon/metalsmith-netlify # Path to your Github repository
   branch: master # Branch to update
 
 media_folder: "src/assets/images/uploads" # Media files will be stored here
